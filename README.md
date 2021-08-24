@@ -1,2 +1,3 @@
 # dotfiles-nixos
-NixOS dotifiles managed by yadm
+
+[NixOS](https://nixos.org/) dotifiles managed by [yadm](https://github.com/TheLocehiliosan/yadm).
