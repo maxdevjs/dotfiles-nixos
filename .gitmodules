@@ -1,3 +1,6 @@
 [submodule ".config/rofi"]
 	path = .config/rofi
 	url = https://github.com/maxdevjs/dotfiles-rofi
+[submodule ".config/kitty"]
+	path = .config/kitty
+	url = https://github.com/maxdevjs/dotfiles-kitty
