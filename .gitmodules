@@ -4,3 +4,6 @@
 [submodule ".config/kitty"]
 	path = .config/kitty
 	url = https://github.com/maxdevjs/dotfiles-kitty
+[submodule ".config/fish"]
+	path = .config/fish
+	url = https://github.com/maxdevjs/dotfiles-fish
