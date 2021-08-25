@@ -19,7 +19,7 @@ when pushing.
 <details>
 <summary>Solution</summary>
 
-The solution will most likely to move the `master` branch to `main`:
+The solution will most likely be to move the `master` branch to `main`:
 
 ```yaml
 $ git branch -m master main
