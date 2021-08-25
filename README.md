@@ -2,6 +2,8 @@
 
 [NixOS](https://nixos.org/) dotifiles managed by [yadm](https://github.com/TheLocehiliosan/yadm).
 
+ [NixOS](https://nixos.org/) [configuration](https://github.com/maxdevjs/dotfiles-nixos-config)
+
 ## What is included
 
 - [maxdevjs/dotfiles-fish](https://github.com/maxdevjs/dotfiles-fish)
@@ -19,19 +21,19 @@ when pushing.
 
 The solution will most likely to move the `master` branch to `main`:
 
-```shell
+```yaml
 $ git branch -m master main
 ```
 
 The previous command renames the branch called `main` to `main` thanks to the `-m` flag.
 
-```shell
+```yaml
 $ man git-branch
-```open
+```
 
 Now it should work 🥳:
 
-```shell
+```yaml
 $ push -u origin main
 ```
 
