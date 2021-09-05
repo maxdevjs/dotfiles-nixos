@@ -9,6 +9,7 @@
 - [maxdevjs/dotfiles-fish](https://github.com/maxdevjs/dotfiles-fish)
 - [maxdevjs/dotfiles-kitty](https://github.com/maxdevjs/dotfiles-kitty)
 - [maxdevjs/dotfiles-rofi](https://github.com/maxdevjs/dotfiles-rofi)
+- [maxdevjs/dotfiles-nvim](https://github.com/maxdevjs/dotfiles-nvim)
 
 ## Troubleshooting 🤪
 
@@ -38,3 +39,12 @@ $ push -u origin main
 ```
 
 </details>
+
+## TODO
+
+- [ ] setup [i3](https://i3wm.org/)
+  - [ ] setup [polybar](https://github.com/polybar/polybar)
+    - setup [maxdevjs/dotfiles-polybar](https://github.com/maxdevjs/dotfiles-polybar) 
+  - [ ] setup [rofi](https://github.com/davatorium/rofi)
+    - [maxdevjs/dotfiles-rofi](https://github.com/maxdevjs/dotfiles-rofi)
+
